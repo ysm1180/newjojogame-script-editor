@@ -30,7 +30,7 @@
   "dependencies": {
     "bmp-js": "^0.1.0",
     "iconv-lite": "^0.5.1",
-    "jpeg-js": "^0.3.7",
+    "jpeg-js": "^0.4.0",
     "path": "^0.12.7",
     "pngjs": "^3.4.0",
     "requirejs": "^2.3.6",
